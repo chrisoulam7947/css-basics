@@ -12,4 +12,26 @@
 }
 
 /*Write your CSS rules below!*/
-
+h1, h2 {
+    text-align: center;
+    font-family: "Oswald", "Helvetica Neue";
+    color: #2884C3;
+}
+code {
+    color: #CE234C;
+    background-color:lightgrey;
+}
+.snippet{
+    background:lightgrey;
+}
+body{
+  font-size: 1.5em;
+  font-family: "Oswald", "Helvetica Neue";
+  line-height:1.5;
+  
+}
+#font-practice{
+   font-style: italic;
+    color:green;
+    font-size:.75em;
+}
